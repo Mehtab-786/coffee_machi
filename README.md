@@ -22,24 +22,6 @@ Welcome to the Coffee Machine program! This Python program simulates a coffee ma
 - **art_pic.py:** Contains ASCII art for the program's logo.
 - **README.md:** This file providing information about the Coffee Machine program.
 
-## Instructions
-1. Install Python: Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
-2. Clone the Repository: Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/your-username/coffee-machine.git
-   ```
-
-3. Navigate to the Directory: Change your current directory to the project folder:
-   ```bash
-   cd coffee-machine
-   ```
-
-4. Run the Script: Execute the Python script to start using the Coffee Machine program:
-   ```bash
-   python coffee_machine.py
-   ```
-
-5. Follow the on-screen instructions to make coffee, get reports, and interact with the coffee machine.
 
 Feel free to explore and experiment with different drink orders and enjoy your virtual coffee experience!
